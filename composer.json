@@ -1,8 +1,8 @@
 {
-    "name": "academe/sugarrestapi",
+    "name": "stadline/sugarrestapi",
     "description": "A library to talk to the SugarCRM REST API.",
     "keywords": ["rest", "api", "suagrcrm", "crm"],
-    "homepage": "https://github.com/academe/sugarrestapi",
+    "homepage": "https://github.com/stadline/sugarrestapi",
     "type": "library",
     "license": "MIT",
     "version": "0.9.0",
